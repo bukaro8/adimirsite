@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bukaro8.github.io/adimirsite/static/css/main.c93bd4cb.chunk.css",
+    "main.js": "/bukaro8.github.io/adimirsite/static/js/main.1c0b0e15.chunk.js",
+    "main.js.map": "/bukaro8.github.io/adimirsite/static/js/main.1c0b0e15.chunk.js.map",
+    "runtime-main.js": "/bukaro8.github.io/adimirsite/static/js/runtime-main.abb659d9.js",
+    "runtime-main.js.map": "/bukaro8.github.io/adimirsite/static/js/runtime-main.abb659d9.js.map",
+    "static/js/2.c3566de5.chunk.js": "/bukaro8.github.io/adimirsite/static/js/2.c3566de5.chunk.js",
+    "static/js/2.c3566de5.chunk.js.map": "/bukaro8.github.io/adimirsite/static/js/2.c3566de5.chunk.js.map",
+    "index.html": "/bukaro8.github.io/adimirsite/index.html",
+    "static/css/main.c93bd4cb.chunk.css.map": "/bukaro8.github.io/adimirsite/static/css/main.c93bd4cb.chunk.css.map",
+    "static/js/2.c3566de5.chunk.js.LICENSE.txt": "/bukaro8.github.io/adimirsite/static/js/2.c3566de5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abb659d9.js",
+    "static/js/2.c3566de5.chunk.js",
+    "static/css/main.c93bd4cb.chunk.css",
+    "static/js/main.1c0b0e15.chunk.js"
+  ]
+}
