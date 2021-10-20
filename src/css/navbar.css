@@ -1,0 +1,12 @@
+.bg-darkClear {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.white {
+  color: #fff !important;
+}
+.white:hover {
+  color: #ffba60 !important;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+}
