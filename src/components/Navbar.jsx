@@ -10,7 +10,7 @@ const NavbarSite=()=>{
   return(
     <Fragment>
       
-      <Navbar className='d-flex justify-content-between fixed-top'bg='darkClear' variant='dark' expand="lg" >
+      <Navbar collapseOnSelect  className='d-flex justify-content-between fixed-top'bg='darkClear' variant='dark' expand="lg" >
       <Container>
         <Navbar.Brand href='#home'>  
           <img width='200px' height='auto' src={logo} alt="" />

@@ -4,7 +4,7 @@ import './App.css';
 import {BrowserRouter as Router, Switch, Route,Link } from 'react-router-dom'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero';
-
+import Services from './components/Services';
 
 function App() {
 
@@ -15,7 +15,7 @@ function App() {
       <Switch>
         <Route>
           <Hero/>
-          
+          <Services/>
         </Route>
         <Route>
         
