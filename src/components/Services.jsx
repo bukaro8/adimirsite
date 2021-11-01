@@ -16,7 +16,17 @@ AOS.init({duration:2000})
         <div className="row">
           <article data-aos="zoom-in-right" className="services__article__container col-12 col-lg-4 col-md-6">
               <div className="card" >
-                <img src={immiImage} className="card-img-top" alt="..."/>
+                <div style={{position:'relative'}}>
+                  {/* overlay */}
+                  <a href="#">
+                  <div class="overlay">
+                        <h3 class='overlay-title'>MORE INFO</h3>
+                        <p class='overlay-subtitle'></p>
+                      </div>
+                  </a>
+                {/* end overlay` */}
+                      <img src={immiImage} className="card-img-top" alt="..."/>
+                </div>
                   <div className="card-body">
                     <h5 className="card-title">Family Law</h5>
                     <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -26,7 +36,17 @@ AOS.init({duration:2000})
           </article>
           <article data-aos="zoom-in-right" className="services__article__container col-12 col-lg-4 col-md-6">
                 <div className="card" >
+                <div style={{position:'relative'}}>
+                  {/* overlay */}
+                  <a href="#">
+                  <div class="overlay">
+                        <h3 class='overlay-title'>MORE INFO</h3>
+                        <p class='overlay-subtitle'></p>
+                      </div>
+                  </a>
+                {/* end overlay` */}
                     <img src={signing} className="card-img-top" alt="..."/>
+                  </div>
                       <div className="card-body">
                         <h5 className="card-title">Divorce Law</h5>
                         <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -36,7 +56,17 @@ AOS.init({duration:2000})
           </article>
           <article data-aos="zoom-in-right" className="services__article__container col-12 col-lg-4 col-md-12">
                 <div className="card" >
+                <div style={{position:'relative'}}>
+                  {/* overlay */}
+                  <a href="#">
+                  <div class="overlay">
+                        <h3 class='overlay-title'>MORE INFO</h3>
+                        <p class='overlay-subtitle'></p>
+                      </div>
+                  </a>
+                {/* end overlay` */}
                     <img src={books} className="card-img-top" alt="..."/>
+                  </div>
                       <div className="card-body">
                         <h5 className="card-title">Immigration Law</h5>
                         <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
