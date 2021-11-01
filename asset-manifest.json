@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/adimirsite/static/css/main.bc71ee5f.chunk.css",
-    "main.js": "/adimirsite/static/js/main.f39d28d5.chunk.js",
-    "main.js.map": "/adimirsite/static/js/main.f39d28d5.chunk.js.map",
-    "runtime-main.js": "/adimirsite/static/js/runtime-main.fa9a5e15.js",
-    "runtime-main.js.map": "/adimirsite/static/js/runtime-main.fa9a5e15.js.map",
-    "static/css/2.ec02d681.chunk.css": "/adimirsite/static/css/2.ec02d681.chunk.css",
-    "static/js/2.50e23246.chunk.js": "/adimirsite/static/js/2.50e23246.chunk.js",
-    "static/js/2.50e23246.chunk.js.map": "/adimirsite/static/js/2.50e23246.chunk.js.map",
-    "index.html": "/adimirsite/index.html",
-    "static/css/2.ec02d681.chunk.css.map": "/adimirsite/static/css/2.ec02d681.chunk.css.map",
-    "static/css/main.bc71ee5f.chunk.css.map": "/adimirsite/static/css/main.bc71ee5f.chunk.css.map",
-    "static/js/2.50e23246.chunk.js.LICENSE.txt": "/adimirsite/static/js/2.50e23246.chunk.js.LICENSE.txt",
-    "static/media/hero.css": "/adimirsite/static/media/books-background.698cfaed.jpg",
-    "static/media/hand-background.19d90b99.jpeg": "/adimirsite/static/media/hand-background.19d90b99.jpeg",
-    "static/media/logo.84a1d600.svg": "/adimirsite/static/media/logo.84a1d600.svg",
-    "static/media/signing-background.df852e1c.jpeg": "/adimirsite/static/media/signing-background.df852e1c.jpeg"
+    "main.css": "/bukaro8.github.io/adimirsite/static/css/main.695f1cf7.chunk.css",
+    "main.js": "/bukaro8.github.io/adimirsite/static/js/main.f39d28d5.chunk.js",
+    "main.js.map": "/bukaro8.github.io/adimirsite/static/js/main.f39d28d5.chunk.js.map",
+    "runtime-main.js": "/bukaro8.github.io/adimirsite/static/js/runtime-main.abb659d9.js",
+    "runtime-main.js.map": "/bukaro8.github.io/adimirsite/static/js/runtime-main.abb659d9.js.map",
+    "static/css/2.ec02d681.chunk.css": "/bukaro8.github.io/adimirsite/static/css/2.ec02d681.chunk.css",
+    "static/js/2.50e23246.chunk.js": "/bukaro8.github.io/adimirsite/static/js/2.50e23246.chunk.js",
+    "static/js/2.50e23246.chunk.js.map": "/bukaro8.github.io/adimirsite/static/js/2.50e23246.chunk.js.map",
+    "index.html": "/bukaro8.github.io/adimirsite/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/bukaro8.github.io/adimirsite/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.695f1cf7.chunk.css.map": "/bukaro8.github.io/adimirsite/static/css/main.695f1cf7.chunk.css.map",
+    "static/js/2.50e23246.chunk.js.LICENSE.txt": "/bukaro8.github.io/adimirsite/static/js/2.50e23246.chunk.js.LICENSE.txt",
+    "static/media/hero.css": "/bukaro8.github.io/adimirsite/static/media/books-background.698cfaed.jpg",
+    "static/media/hand-background.19d90b99.jpeg": "/bukaro8.github.io/adimirsite/static/media/hand-background.19d90b99.jpeg",
+    "static/media/logo.84a1d600.svg": "/bukaro8.github.io/adimirsite/static/media/logo.84a1d600.svg",
+    "static/media/signing-background.df852e1c.jpeg": "/bukaro8.github.io/adimirsite/static/media/signing-background.df852e1c.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa9a5e15.js",
+    "static/js/runtime-main.abb659d9.js",
     "static/css/2.ec02d681.chunk.css",
     "static/js/2.50e23246.chunk.js",
-    "static/css/main.bc71ee5f.chunk.css",
+    "static/css/main.695f1cf7.chunk.css",
     "static/js/main.f39d28d5.chunk.js"
   ]
 }
